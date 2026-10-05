@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "Patient-independent ECG arrhythmia classification on MIT-BIH: a matched-protocol benchmark of a lightweight 1D-CNN"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+type: software
+repository-code: "https://github.com/msaitd/ecg-interpatient-benchmark"
+authors:
+  - family-names: "Dündar"
+    given-names: "Mehmet Sait"
+    orcid: "https://orcid.org/0000-0002-0336-4825"
+    affiliation: "Medical Imaging Techniques, Halil Bayraktar Health Services Vocational School, Erciyes University, Kayseri, Türkiye"
+keywords:
+  - electrocardiography
+  - arrhythmia
+  - MIT-BIH
+  - inter-patient evaluation
+  - deep learning
